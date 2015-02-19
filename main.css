@@ -41,17 +41,3 @@ header img#avatar {
 	height: 60px;
 	border-radius: 15px;
 }
-
-footer {
-	text-align: center;
-}
-
-footer a#toplist {
-	display: none;
-}
-
-footer a#toplist img {
-	width: 0;
-	height: 0;
-	border: 0;
-}
