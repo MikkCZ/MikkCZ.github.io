@@ -1,0 +1,42 @@
+<name["full"] {
+	full: "Michal Stanke",
+	nick: "Mikk",
+	nickCZ: "MikkCZ"
+}>
+<title "{{ name.full }} - {{ name.nick }}">
+
+<fee "FEE CTU">
+<prague["nominative"] {
+	nominative: "Prague"
+}>
+<mozilla["nominative"] {
+	nominative: "Mozilla"
+}>
+<who "Who I am">
+<who_p1 "My name is <em>{{ name.full }}</em> and you can know me also as <em>{{ name.nick }}</em> or <em>{{ name.nickCZ }}</em>. I'm a student of {{ fee }} in {{ prague.locative }} and the {{ mozilla.nominative }} project contributor.">
+
+<forum["nominative"] {
+	nominative: "forum"
+}>
+<mozilla_cz "{{ mozilla }}.cz">
+<format_factory "Format Factory">
+<instantbird "Instantbird">
+<bluegriffon "BlueGriffon">
+<sumo "{{ mozilla }} Support">
+<thunderbird "Thunderbird">
+<mozillian["nominative"] {
+	nominative: "Mozillian"
+}>
+<github["nominative"] {
+	nominative: "GitHub"
+}>
+<projects "What I am doing">
+<projects_p1 "I have long experience with solving queries on the <a>{{ mozilla_cz }} {{ forum.locative }}</a> where I contribute since 2010, and since 2013 also with real customer support.">
+<projects_p2 "In year 2010, I began translating various programs. My first translated program was audio and video converter {{ format_factory }}. Then I started to focus on translations for the {{ mozilla.nominative }} project. In addition to the <a>{{ instantbird }}</a> IM client and the <a>{{ bluegriffon }}</a> WYSIWYG editor, several add-ons, occasionally also <a>{{ sumo }}</a> articles and more. Since 2014 also the {{ thunderbird }} e-mail client.">
+<projects_p3 "Thanks to the translations, I've got closer to the <a>{{ mozilla.nominative }}</a> project and became <a>{{ mozillian.instrumental }}</a>. I like the {{ mozilla.genitive }} mission and would be pleasured to help you to get also involved and support the Web to be free and open.">
+<projects_p4 "As for study, I code in Java and C. Also I've met C++, PHP, JavaScript, SQL, Python, VHDL, Bash, Matlab or MIPS. Even if I don't have much to boast with, you can find me on <a>{{ github.locative }}</a> too.">
+
+<contribute "Get Involved">
+<contact "Contact">
+<contact_p1 "You can contact me at the e-mail address <a>michal.stanke@mikk.cz</a>. In case you are interested in the {{ mozilla.nominative }} project, please visit our Czech server <a>{{ mozilla_cz }}</a> or the official {{ mozilla }} <a>{{ contribute }}</a> page.">
+

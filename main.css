@@ -7,7 +7,7 @@ a:hover {
 	color: #6b8e23;
 }
 
-div#main {
+#main {
 	margin: 0 auto;
 	padding: 0.6em;
 	max-width: 700px;
@@ -24,17 +24,17 @@ h2 {
 	font-size: 150%;
 }
 
-header div#langs {
+#langs {
 	text-align: right;
 	margin: 0 0 -1em 0;
 	padding: 0;
 }
 
-header div#langs a img {
+#langs a img {
 	width: 20px;
 }
 
-header img#avatar {
+#avatar {
 	display: block;
 	margin: 0 auto;
 	height: 60px;

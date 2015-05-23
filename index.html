@@ -1,21 +1,28 @@
 <!DOCTYPE html>
-<html lang="cs" dir="ltr">
+<html>
 
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
+	<title data-l10n-id="title">Michal Stanke - Mikk</title>
 	<meta name="description" content="Jmenuji se Michal Stanke a toto je moje stránka. Na internetu mne můžete potkat jako Mikk, většinou ve spojení s Mozillou nebo Firefoxem.">
 	<meta name="keywords" content="Michal Stanke, Mikk, Mikk_CZ, Mozilla, Firefox, Thunderbird, Firefox OS">
-	<meta name="author" content="Michal Stanke - michal.stanke@mikk.cz">	
-	<title>Michal Stanke - Mikk</title>
-	<link rel="alternate" hreflang="en" href="http://michal.stanke.cz/index_en.html">
+	<meta name="author" content="Michal Stanke - michal.stanke@mikk.cz">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes">
 	<link rel="stylesheet" type="text/css" href="main.css">
+	<noscript>
+		<link rel="stylesheet" type="text/css" href="noscript.css">
+	</noscript>
 	
 	<link rel="shortcut icon" href="http://www.gravatar.com/avatar/bf0a036f2229fb111cdc484e8cb8ddb9">
 	<link rel="icon" type="image/jpg" href="http://www.gravatar.com/avatar/bf0a036f2229fb111cdc484e8cb8ddb9" sizes="80x80">
 	
 	<meta name="google-site-verification" content="oh2qSqNAGO9NFUxX-7-Jw9NIPgCdgQaRxgW4n77KKcA" />
+
+	<link rel="alternate" hreflang="cs" href="#cs">
+	<link rel="alternate" hreflang="en" href="#en">
+	<link rel="localization" href="l20n/manifest.json">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/l20n/1.0.2/l20n.min.js"></script>
 </head>
 
 <body>
@@ -24,46 +31,62 @@
 
 <header>
 	<div id="langs">
-		<a href="index.html" title="Česky"><img src="images/cs.jpg" alt="Česky"></a>
-		<a href="index_en.html" title="English"><img src="images/en.jpg" alt="English"></a>
+		<a href="#cs" title="Česky"><img src="images/cs.jpg" alt="Česky"></a>
+		<a href="#en" title="English"><img src="images/en.jpg" alt="English"></a>
 	</div>
-	<h1>
+	<h1 data-l10n-id="name">
 		Michal Stanke
 	</h1>
 	<img src="http://www.gravatar.com/avatar/bf0a036f2229fb111cdc484e8cb8ddb9" id="avatar" alt="avatar">
 </header>
 
+<noscript>
+	<section id="noscript">
+		<h3>JavaScript</h3>
+		<p>
+			Pro zobrazení stránky je vyžadován JavaScript, který máte ve svém prohlížeči vypnutý.
+			<a href="http://enable-javascript.com/cz/" title="Jak a proč povolit JavaScript ve Vašem prohlížeči">Zapněte jej prosím</a> a <a href="">znovu načtěte</a> tuto stránku.
+		</p>
+		<p>
+			This site requires JavaScript, which seems to be disabled in your browser.
+			<a href="http://enable-javascript.com/" title="How to enable JavaScript in your browser and why">Please enable it</a> and <a href="">realod</a> this site.
+		</p>
+	</section>
+</noscript>
+
 <section id="who">
-	<h2>Kdo jsem</h2>
-	<p>
-		Jmenuji se <em>Michal Stanke</em> a můžete mne znát jako <em>Mikk</em> či <em>MikkCZ</em>. Jsem student FEL ČVUT v Praze a přispěvatel projektu Mozilla.
-	</p>
+	<h2 data-l10n-id="who"></h2>
+	<p data-l10n-id="who_p1"></p>
 </section>
 
 <section id="projects">
-	<h2>Co dělám</h2>
-	<p>
-		Dlouhodobé zkušenosti mám s řešením dotazů na <a href="http://forum.mozilla.cz/">fóru Mozilla.cz</a>, kam přispívám od roku 2010, a od roku 2013 také se skutečnou zákaznickou podporou.
+	<h2 data-l10n-id="projects"></h2>
+	<p data-l10n-id="projects_p1">
+		<a href="http://forum.mozilla.cz/"></a>
 	</p>
-	<p>
-		V roce 2010 jsem ve volném čase začal překládat různé programy. Mým prvním překladem byl audio a video konvertor Format Factory. Poté jsem se začal zaměřovat na překlady pro projekt Mozilla. Kromě IM klienta <a href="http://instantbird.com/">Instantbird</a> a WYSIWYG editoru <a href="http://bluegriffon.org/">BlueGriffon</a> některé doplňky, příležitostně články nápovědy na serveru <a href="https://support.mozilla.org/">Podpora Mozilly</a> a další. Od roku 2014 také poštovní klient Thunderbird.
+	<p data-l10n-id="projects_p2">
+		<a href="http://instantbird.com/"></a><a href="http://bluegriffon.org/"></a><a href="https://support.mozilla.org/"></a>
 	</p>
-	<p>
-		Díky překladům jsem se dostal blíže k projektu <a href="https://www.mozilla.org/">Mozilla</a> a stal jsem se <a href="https://mozillians.org/u/Mikk/">Mozillianem</a>. Líbí se mi myšlenka Mozilly a velmi rád Vám pomohu se také zapojit a podpořit svobodný a otevřený web.
+	<p data-l10n-id="projects_p3">
+		<a href="https://www.mozilla.org/"></a><a href="https://mozillians.org/u/Mikk/"></a>
 	</p>
-	<p>
-		V rámci studia programuji hlavně v Javě, případně v C. Potkal jsem ale i další jazyky, jako C++, PHP, JavaScript, SQL, Python, VHDL, Bash, Matlab nebo MIPS. I když se nemám moc čím chlubit, najdete mne na <a href="https://github.com/MikkCZ">GitHubu</a>.
+	<p data-l10n-id="projects_p4">
+		<a href="https://github.com/MikkCZ"></a>
 	</p>
 </section>
 
 <section id="contact">
-	<h2>Kontakt</h2>
-	<p>
-		Kontaktovat mne můžete na e-mailové adrese <a href="mailto:michal.stanke@mikk.cz">michal.stanke@mikk.cz</a>. Pokud Vás zajímá projekt Mozilla, podívejte se také na český server <a href="http://www.mozilla.cz/">Mozilla.cz</a> nebo navštivte oficiální stránku <a href="https://www.mozilla.org/cs/contribute/">Zapojte se</a>.
+	<h2 data-l10n-id="contact"></h2>
+	<p data-l10n-id="contact_p1">
+		<a href="mailto:michal.stanke@mikk.cz"></a>
+		<a href="http://www.mozilla.cz/"></a>
+		<a href="https://www.mozilla.org/cs/contribute/"></a>
 	</p>
 </section>
 
 </div>
+
+<script src="l20n/l20n-script.js"></script>
 
 </body>
 </html>
