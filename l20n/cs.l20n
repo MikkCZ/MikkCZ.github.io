@@ -3,7 +3,6 @@
 	nick: "Mikk",
 	nickCZ: "MikkCZ"
 }>
-<title "{{ name.full }} - {{ name.nick }}">
 
 <fee "FEL ČVUT">
 <prague["nominative"] {
