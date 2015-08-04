@@ -37,5 +37,5 @@
 
 <contribute "Get Involved">
 <contact "Contact">
-<contact_p1 "You can contact me at the e-mail address <a>michal.stanke@mikk.cz</a>. In case you are interested in the {{ mozilla.nominative }} project, please visit our Czech server <a>{{ mozilla_cz }}</a> or the official {{ mozilla }} <a>{{ contribute }}</a> page.">
+<contact_p1 "You can contact me at the e-mail address <a>michal.stanke@mikk.cz</a>, but for support requests please go directly to <a>{{ forum.locative }} {{ mozilla_cz }}</a>. In case you are interested in the {{ mozilla.nominative }} project, please visit our Czech server <a>{{ mozilla_cz }}</a> or the official {{ mozilla }} <a>{{ contribute }}</a> page.">
 
