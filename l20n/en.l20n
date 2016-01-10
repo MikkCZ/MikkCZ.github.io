@@ -30,12 +30,11 @@
 	nominative: "GitHub"
 }>
 <projects "What I am doing">
-<projects_p1 "I have long experience with solving queries on the <a>{{ mozilla_cz }} {{ forum.locative }}</a> where I contribute since 2010, and since 2013 also with real customer support.">
-<projects_p2 "In year 2010, I began translating various programs. My first translated program was audio and video converter {{ format_factory }}. Then I started to focus on translations for the {{ mozilla.nominative }} project. In addition to the <a>{{ instantbird }}</a> IM client and the <a>{{ bluegriffon }}</a> WYSIWYG editor, several add-ons, occasionally also <a>{{ sumo }}</a> articles and more. Since 2014 also the {{ thunderbird }} e-mail client.">
-<projects_p3 "Thanks to the translations, I've got closer to the <a>{{ mozilla.nominative }}</a> project and became <a>{{ mozillian.instrumental }}</a>. I like the {{ mozilla.genitive }} mission and would be pleasured to help you to get also involved and support the Web to be free and open.">
-<projects_p4 "As for study, I code in Java and C. Also I've met C++, PHP, JavaScript, SQL, Python, VHDL, Bash, Matlab or MIPS. Even if I don't have much to boast with, you can find me on <a>{{ github.locative }}</a> too.">
+<projects_p1 "In year 2010, I began solving inssuie on the <a>{{ mozilla_cz }} {{ forum.locative }}</a> and translating various programs. My first translated program was audio and video converter {{ format_factory }}. Then I started to focus on translations for the {{ mozilla.nominative }} project. In addition to the <a>{{ instantbird }}</a> IM client and the <a>{{ bluegriffon }}</a> WYSIWYG editor, several add-ons, occasionally also <a>{{ sumo }}</a> articles. Since 2014 also the products.">
+<projects_p2 "Thanks to the translations, I've got closer to the <a>{{ mozilla.nominative }}</a> project and became <a>{{ mozillian.instrumental }}</a>. I like the {{ mozilla.genitive }} mission and would be pleasured to help you to get also involved and support the Web to be free and open.">
+<projects_p3 "As for study, I code in Java and C/C++. Also I've met Python, PHP, JavaScript and more, but mostly marginal. Even if I don't have much to boast with, you can find me on <a>{{ github.locative }}</a> too.">
 
 <contribute "Get Involved">
 <contact "Contact">
-<contact_p1 "You can contact me at the e-mail address <a>michal.stanke@mikk.cz</a>, but for support requests please go directly to <a>{{ forum.locative }} {{ mozilla_cz }}</a>. In case you are interested in the {{ mozilla.nominative }} project, please visit our Czech server <a>{{ mozilla_cz }}</a> or the official {{ mozilla }} <a>{{ contribute }}</a> page.">
+<contact_p1 "You can contact me at the e-mail address <a>michal@stanke.cz</a>, but for support requests please go directly to <a>{{ forum.locative }} {{ mozilla_cz }}</a>. In case you are interested in the {{ mozilla.nominative }} project, please visit our Czech server <a>{{ mozilla_cz }}</a> or the official {{ mozilla }} <a>{{ contribute }}</a> page.">
 

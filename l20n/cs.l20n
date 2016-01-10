@@ -60,12 +60,11 @@
 	instrumental: "GitHubem"
 }>
 <projects "Co dělám">
-<projects_p1 "Dlouhodobé zkušenosti mám s řešením dotazů na <a>{{ forum.locative }} {{ mozilla_cz }}</a>, kam přispívám od roku 2010, a od roku 2013 také se skutečnou zákaznickou podporou.">
-<projects_p2 "V roce 2010 jsem ve volném čase začal překládat různé programy. Mým prvním překladem byl audio a video konvertor {{ format_factory }}. Poté jsem se začal zaměřovat na překlady pro projekt {{ mozilla.nominative }}. Kromě IM klienta <a>{{ instantbird }}</a> a WYSIWYG editoru <a>{{ bluegriffon }}</a> některé doplňky, příležitostně články nápovědy na serveru <a>{{ sumo }}</a> a další. Od roku 2014 také poštovní klient {{ thunderbird }}.">
-<projects_p3 "Díky překladům jsem se dostal blíže k projektu <a>{{ mozilla.nominative }}</a> a stal jsem se <a>{{ mozillian.instrumental }}</a>. Líbí se mi myšlenka {{ mozilla.genitive }} a velmi rád Vám pomohu se také zapojit a podpořit svobodný a otevřený web.">
-<projects_p4 "V rámci studia programuji hlavně v Javě, případně v C. Potkal jsem ale i další jazyky, jako C++, PHP, JavaScript, SQL, Python, VHDL, Bash, Matlab nebo MIPS. I když se nemám moc čím chlubit, najdete mne na <a>{{ github.locative }}</a>.">
+<projects_p1 "V roce 2010 jsem ve volném čase začal řešit dotazy na <a>{{ forum.locative }} {{ mozilla_cz }}</a> a překládat různé programy. Mým prvním překladem byl audio a video konvertor {{ format_factory }}. Poté jsem se začal zaměřovat na překlady pro projekt {{ mozilla.nominative }}. Kromě IM klienta <a>{{ instantbird }}</a> a WYSIWYG editoru <a>{{ bluegriffon }}</a> některé doplňky, příležitostně články nápovědy na serveru <a>{{ sumo }}</a>. Od roku 2014 postupně i samotné aplikace.">
+<projects_p2 "Díky překladům jsem se dostal blíže k projektu <a>{{ mozilla.nominative }}</a> a stal jsem se <a>{{ mozillian.instrumental }}</a>. Líbí se mi myšlenka {{ mozilla.genitive }} a velmi rád Vám pomohu se také zapojit a podpořit svobodný a otevřený web.">
+<projects_p3 "V rámci studia programuji hlavně v Javě, případně v C/C++. Potkal jsem ale i další jazyky, jako Python, PHP, JavaScript i další, ale spíše okrajově. I když se nemám moc čím chlubit, najdete mne na <a>{{ github.locative }}</a>.">
 
 <contribute "Zapojte se">
 <contact "Kontakt">
-<contact_p1 "Kontaktovat mne můžete na e-mailové adrese <a>michal.stanke@mikk.cz</a>, dotazy na podporu ale prosím směřujte na <a>{{ forum.accusative }} {{ mozilla_cz }}</a>. Pokud Vás zajímá projekt {{ mozilla.nominative }}, podívejte se také na český server <a>{{ mozilla_cz }}</a> nebo navštivte oficiální stránku <a>{{ contribute }}</a>.">
+<contact_p1 "Kontaktovat mne můžete na e-mailové adrese <a>michal@stanke.cz</a>, dotazy na podporu ale prosím směřujte na <a>{{ forum.accusative }} {{ mozilla_cz }}</a>. Pokud Vás zajímá projekt {{ mozilla.nominative }}, podívejte se také na český server <a>{{ mozilla_cz }}</a> nebo navštivte oficiální stránku <a>{{ contribute }}</a>.">
 
