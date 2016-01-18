@@ -3,7 +3,7 @@
 		"cs",
 		"en"
 	],
-	"default_locale": "cs",
+	"default_locale": "en",
 	"resources": [
 		"{{locale}}.l20n"
 	]
