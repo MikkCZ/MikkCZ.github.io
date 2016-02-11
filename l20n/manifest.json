@@ -1,7 +1,7 @@
 {
 	"locales": [
-		"cs",
-		"en"
+		"en",
+		"cs"
 	],
 	"default_locale": "en",
 	"resources": [
