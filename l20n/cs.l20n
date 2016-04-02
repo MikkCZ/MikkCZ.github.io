@@ -60,5 +60,5 @@
 
 <contribute "Zapojte se">
 <contact "Kontakt">
-<contact_p1 "Kontaktovat mne můžete na e-mailové adrese <a>michal@stanke.cz</a>, dotazy na podporu produktů {{ mozilla.nominative }} ale prosím směřujte na <a>{{ forum.accusative }} {{ mozilla_cz }}</a>. Pokud Vás zajímá projekt {{ mozilla.nominative }}, podívejte se také na český server <a>{{ mozilla_cz }}</a> nebo navštivte oficiální stránku <a>{{ contribute }}</a>.">
+<contact_p1 "Kontaktovat mne můžete na e-mailové adrese <a>michal@stanke.cz</a>, dotazy na podporu produktů {{ mozilla.nominative }} ale prosím směřujte na server <a>Podpora {{ mozilla.genitive }}</a>. Pokud Vás zajímá projekt {{ mozilla.nominative }}, podívejte se také na český server <a>{{ mozilla_cz }}</a> nebo navštivte oficiální stránku <a>{{ contribute }}</a>.">
 
