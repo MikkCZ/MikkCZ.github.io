@@ -55,7 +55,7 @@
 	instrumental: "GitHubem"
 }>
 <projects "Co dělám">
-<projects_p1 "V roce 2010 jsem ve volném čase začal řešit dotazy na <a>{{ forum.locative }} {{ mozilla_cz }}</a>. Poté jsem se začal zaměřovat i na lokalizaci nápovědy, webů a produktů {{ mozilla.nominative }}. Od té doby jsem se stal <a>{{ mozillian.instrumental }}</a>. Líbí se mi myšlenka {{ mozilla.genitive }} a velmi rád Vám pomohu se také zapojit a podpořit svobodný a otevřený web.">
+<projects_p1 "V roce 2010 jsem ve volném čase začal řešit dotazy na {{ forum.locative }} {{ mozilla_cz }}. Poté jsem se začal zaměřovat i na lokalizaci nápovědy, webů a produktů {{ mozilla.nominative }}. Od té doby jsem se stal <a>{{ mozillian.instrumental }}</a>. Líbí se mi myšlenka {{ mozilla.genitive }} a velmi rád Vám pomohu se také zapojit a podpořit svobodný a otevřený web.">
 <projects_p2 "V rámci studia programuji hlavně v Javě. Potkal jsem ale i další jazyky - C/C++, PHP, Python, JavaScript i další, ale spíše okrajově. I když se nemám moc čím chlubit, najdete mne na <a>{{ github.locative }}</a>.">
 
 <contribute "Zapojte se">

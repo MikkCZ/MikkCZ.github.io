@@ -25,7 +25,7 @@
 	nominative: "GitHub"
 }>
 <projects "What I am doing">
-<projects_p1 "In 2010, I began solving issues on the <a>{{ mozilla_cz }} {{ forum.locative }}</a>. Then I started to focus on translating support articles, websites and products of {{ mozilla.nominative }}. I became <a>{{ mozillian.instrumental }}</a>. I like the {{ mozilla.genitive }} mission and would be pleasured to help you to get also involved and support the Web to be free and open.">
+<projects_p1 "In 2010, I began solving issues on the {{ mozilla_cz }} {{ forum.locative }}. Then I started to focus on translating support articles, websites and products of {{ mozilla.nominative }}. I became <a>{{ mozillian.instrumental }}</a>. I like the {{ mozilla.genitive }} mission and would be pleasured to help you to get also involved and support the Web to be free and open.">
 <projects_p2 "As for study, I code in Java. I've met also other languages - C/C++, PHP, Python, JavaScript and more, but mostly marginal. Even if I don't have much to boast with, you can find me on <a>{{ github.locative }}</a> too.">
 
 <contribute "Get Involved">
