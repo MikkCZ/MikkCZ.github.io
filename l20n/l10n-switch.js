@@ -31,6 +31,8 @@ var l20n = function() {
 	for (var i = 0; i < langs.length; i++) {
 		langs[i].addEventListener('click', langClickListener);
 	}
+
+    setLang(window.location.hash.split('#')[1] || navigator.languages[0]);
 }
 
 window.addEventListener('DOMContentLoaded', l20n);
