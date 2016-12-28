@@ -56,13 +56,8 @@ l10nswitch.L10Nswitch.prototype._langClickListener = function(e) {
     this._setLang(a.href.split('#')[1]);
 }
 
-l10nswitch.L10Nswitch.prototype._setLang = function(lang) {
-    if (!lang) {
-        document.l10n.requestLanguages();
-        lang = navigator.languages[0];
-    } else {
-        document.l10n.requestLanguages([lang]);
-    }
+l10nswitch.L10Nswitch.prototype._showHideLangs = function(promiseValue) {
+    var lang = promiseValue[0].lang;
     for (var i = 0; i < this._langs.length; i++) {
         var a = this._langs[i];
         while (a.nodeName.toLowerCase() !== 'a') {
@@ -73,6 +68,18 @@ l10nswitch.L10Nswitch.prototype._setLang = function(lang) {
         } else {
             a.style.display = 'inline';
         }
+    }
+}
+
+l10nswitch.L10Nswitch.prototype._onLangSet = function(promiseValue) {
+    document.l10n.localizations.get('main').interactive.then(this._showHideLangs.bind(this));
+}
+
+l10nswitch.L10Nswitch.prototype._setLang = function(lang) {
+    if (!lang) {
+        document.l10n.requestLanguages().then(this._onLangSet.bind(this));
+    } else {
+        document.l10n.requestLanguages([lang]).then(this._onLangSet.bind(this));
     }
 }
 
