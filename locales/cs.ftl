@@ -1,3 +1,9 @@
+english = <img alt="English">
+	[html/title]	English
+
+czech = <img alt="Česky">
+	[html/title]	Česky
+
 name =
 	*[full]		Michal Stanke
 	[nick]		Mikk
