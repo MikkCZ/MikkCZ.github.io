@@ -4,7 +4,7 @@ if (typeof l10nswitch === "undefined") {
 
 l10nswitch.L10Nswitch = function() {
     this._langs = this._addLangs();
-    this._setLang(window.location.hash.split('#')[1] || navigator.languages[0]);
+    this._setLang(window.location.hash.split('#')[1]);
 }
 
 l10nswitch.L10Nswitch.prototype._addLangs = function() {
@@ -51,6 +51,7 @@ l10nswitch.L10Nswitch.prototype._langClickListener = function(e) {
 l10nswitch.L10Nswitch.prototype._setLang = function(lang) {
     if (!lang) {
         document.l10n.requestLanguages();
+        lang = navigator.languages[0];
     } else {
         document.l10n.requestLanguages([lang]);
     }
