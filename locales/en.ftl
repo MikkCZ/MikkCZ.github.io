@@ -5,9 +5,9 @@ czech = <img alt="Česky">
     [html/title]    Česky
 
 name =
-	*[full]		Michal Stanke
-	[nick]		Mikk
-	[nickCZ]	MikkCZ
+    *[full]     Michal Stanke
+    [nick]      Mikk
+    [nickCZ]    MikkCZ
 
 fee = FEE CTU
 

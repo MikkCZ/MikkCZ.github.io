@@ -1,66 +1,66 @@
 english = <img alt="English">
-	[html/title]	English
+    [html/title]    English
 
 czech = <img alt="Česky">
-	[html/title]	Česky
+    [html/title]    Česky
 
 name =
-	*[full]		Michal Stanke
-	[nick]		Mikk
-	[nickCZ]	MikkCZ
+    *[full]     Michal Stanke
+    [nick]      Mikk
+    [nickCZ]    MikkCZ
 
 fee = FEL ČVUT
 
 prague =
-	*[nominative]	Praha
-	[genitive]		Prahy
-	[dative]		Praze
-	[accusative]	Prahu
-	[vocative]		Praho
-	[locative]		Praze
-	[instrumental]	Prahou
+    *[nominative]   Praha
+    [genitive]      Prahy
+    [dative]        Praze
+    [accusative]    Prahu
+    [vocative]      Praho
+    [locative]      Praze
+    [instrumental]  Prahou
 
 mozilla =
-	*[nominative]	Mozilla
-	[genitive]		Mozilly
-	[dative]		Mozille
-	[accusative]	Mozillu
-	[vocative]		Mozillo
-	[locative]		Mozille
-	[instrumental]	Mozillou
+    *[nominative]   Mozilla
+    [genitive]      Mozilly
+    [dative]        Mozille
+    [accusative]    Mozillu
+    [vocative]      Mozillo
+    [locative]      Mozille
+    [instrumental]  Mozillou
 
 who = Kdo jsem
 
 who_p1 = Jmenuji se <em>{ name[full] }</em> a můžete mne znát jako <em>{ name[nick] }</em> či <em>{ name[nickCZ] }</em>. Jsem student { fee } v { prague[locative] } a přispěvatel projektu { mozilla[nominative] }.
 
 forum =
-	*[nominative]	fórum
-	[genitive]		fóra
-	[dative]		fóru
-	[accusative]	fórum
-	[vocative]		fórum
-	[locative]		fóru
-	[instrumental]	fórem
+    *[nominative]   fórum
+    [genitive]      fóra
+    [dative]        fóru
+    [accusative]    fórum
+    [vocative]      fórum
+    [locative]      fóru
+    [instrumental]  fórem
 
 mozilla_cz = { mozilla }.cz
 
 mozillian =
-	*[nominative]	Mozillian
-	[genitive]		Mozilliana
-	[dative]		Mozillianovi
-	[accusative]	Mozilliana
-	[vocative]		Mozilliane
-	[locative]		Mozillianovi
-	[instrumental]	Mozilianem
+    *[nominative]   Mozillian
+    [genitive]      Mozilliana
+    [dative]        Mozillianovi
+    [accusative]    Mozilliana
+    [vocative]      Mozilliane
+    [locative]      Mozillianovi
+    [instrumental]  Mozilianem
 
 github =
-	*[nominative]	GitHub
-	[genitive]		GitHubu
-	[dative]		GitHubu
-	[accusative]	GitHub
-	[vocative]		GitHube
-	[locative]		GitHubu
-	[instrumental]	GitHubem
+    *[nominative]   GitHub
+    [genitive]      GitHubu
+    [dative]        GitHubu
+    [accusative]    GitHub
+    [vocative]      GitHube
+    [locative]      GitHubu
+    [instrumental]  GitHubem
 
 projects = Co dělám
 
