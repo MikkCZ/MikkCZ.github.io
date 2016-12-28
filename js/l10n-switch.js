@@ -3,6 +3,13 @@ if (typeof l10nswitch === "undefined") {
 }
 
 l10nswitch.L10Nswitch = function() {
+    var metas = document.getElementsByTagName('meta');
+    for (var i = 0; i < metas.length; i++) {
+        var meta = metas[i];
+        if (meta.getAttribute('name') == 'availableLanguages') {
+            this._availableLanguages = meta.getAttribute('content').split(/\s*,\s*/);
+        }
+    }
     this._langs = this._addLangs();
     this._setLang(window.location.hash.split('#')[1]);
 }
@@ -10,8 +17,9 @@ l10nswitch.L10Nswitch = function() {
 l10nswitch.L10Nswitch.prototype._addLangs = function() {
     var langsDiv = document.createElement('div');
     langsDiv.id = 'langs';
-    this._addLang(langsDiv, 'en', 'english');
-    this._addLang(langsDiv, 'cs', 'czech');
+    for (var i = 0; i < this._availableLanguages.length; i++) {
+        this._addLang(langsDiv, this._availableLanguages[i]);
+    }
 
     var header = document.body.getElementsByTagName('header')[0];
     header.insertBefore(langsDiv, header.firstChild);
@@ -21,13 +29,13 @@ l10nswitch.L10Nswitch.prototype._addLangs = function() {
     return langs;
 }
 
-l10nswitch.L10Nswitch.prototype._addLang = function(langsDiv, lang, l10nID) {
+l10nswitch.L10Nswitch.prototype._addLang = function(langsDiv, lang) {
     var flag = document.createElement('img');
     flag.src = 'images/'+lang+'.jpg';
 
     var link = document.createElement('a')
     link.href = '#'+lang;
-    link.setAttribute('data-l10n-id', l10nID);
+    link.setAttribute('data-l10n-id', 'link_'+lang);
     link.appendChild(flag);
 
     langsDiv.appendChild(link);

@@ -1,8 +1,8 @@
-english = <img alt="English">
+link_en = <img alt="English">
     [html/title]    English
 
-czech = <img alt="Česky">
-    [html/title]    Česky
+link_cs = <img alt="Czech">
+    [html/title]    Czech
 
 name =
     *[full]     Michal Stanke
