@@ -21,5 +21,5 @@ projects_p2 = As for study, I code in Java. I've met also other languages - C/C+
 
 contact = Contact
 
-contact_p1 = You can contact me at the e-mail address <a>michal@stanke.cz</a>, but for support requests please go directly to the <a>Mozilla Support</a>. In case you are interested in the Mozilla project, please visit our Czech server <a>{ mozilla_cz }</a> or the official Mozilla <a>Get Involved</a> page.
+contact_p1 = You can contact me at the e-mail address <a>michal@stanke.cz</a>, but for support requests please go directly to the <a>Mozilla Support</a>. In case you are interested in the Mozilla project, please visit our Czech server <a>Mozilla.cz</a> or the official Mozilla <a>Get Involved</a> page.
 
