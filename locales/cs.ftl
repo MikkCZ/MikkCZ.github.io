@@ -21,8 +21,6 @@ who_desc =
     | lokalizaci a aktivity komunity <a>{ mozilla }.cz</a>. Mimo to ještě spravuji český web
     | distribuce <a>Linux Mint</a>.
 
-links_headline = Odkazy
-
 links =
     | <a title="LinkedIn"></a>
     | <a title="GitHub"></a>

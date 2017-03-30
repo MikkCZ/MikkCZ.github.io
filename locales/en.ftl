@@ -20,8 +20,6 @@ who_desc =
     | Czech localization and <a>Mozilla.cz</a> community activities. Moreover I manage
     | community website of <a>Linux Mint</a>.
 
-links_headline = Links
-
 links =
     | <a title="LinkedIn"></a>
     | <a title="GitHub"></a>
