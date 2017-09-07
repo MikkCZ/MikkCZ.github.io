@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My motivation for creating Pontoon Tools
-tags: mozilla l10n webextension
+tags: mozilla l10n webextension english
 ---
 
 I first heard about Pontoon many years ago (I think [here](http://horv.at/blog/localizing-firefox-os-with-pontoon/)) and by that time, it was a small project which I forgot about after the very first look. A year or two later, when I was responsible for localizing several Mozilla web applications, Mozilla Verbatim became very buggy. I was introduced to Pontoon again and it looked much better. And because XLIFF used in Firefox for iOS was a big pain (^2 with Subversion), I have decided to give Pontoon a chance. From that moment, I like Pontoon very much, especially after we have migrated all to projects to Pontoon, including desktop products, which I was very afraid of before. I always try to give the developers the best feedback I can and I have even promised several times to help with fixing few bugs, but that actually never happened, as I got busy at study and work. :(
