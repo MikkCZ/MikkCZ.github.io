@@ -1,0 +1,19 @@
+---
+layout: post
+title: The story of me@mozilla
+tags: mozilla english mozilla-reps community
+---
+
+After our successful presence on the [LinuxDays](https://www.linuxdays.cz/2017/) conference in Prague, I have been asked by a [Linux Expres](https://www.linuxexpres.cz/) for an interview, how I get to the Mozilla community, what I do there, etc. The article is not public yet, but I have realized I never told this story to the Mozilla community itself. So take some popcorn and make yourself comfortable...
+
+Back in times when I thought PowerPoint presentations are the masterpiece of computer science and their quality score is determined by the number of animations per slide, my Internet Explorer got sick. After an attempt to change the homepage in hope it will stop showing me ads everywhere, I have decided I need a new browser. I knew some people online and asked them for a recommendation, and their answers were Opera and Firefox. I never saw any of them in action before, so I dived into the dark unknown waters of the internet to download them for testing. My first impression from Opera was it's too complex and complicated to change the homepage and import bookmarks, while Firefox did that all for me when I clicked all the *Next &gt;* buttons. The winner was clear.
+
+That was **Firefox 2.0**, way different from Internet Explorer. When exploring the user documentation to help me a bit, I found an information, that 3.0 is imminent. Wow, a browser that is being developed and will have a new *version*. Super cool for someone using the old IE! But the documentation did not helped me much actually, which drove me right into the registration form of the **Czech community forum**, and here my community story begins.
+
+After some time, I realized that I know answers for other questions on the forum, so I started answering. About the same time I have decided to start using all Mozilla-based applications I can make use of, namely Thunderbird and Instantbird (which I **started localizing** soon). Later the Mozilla.cz team offered me to translate some **articles on SUMO** and websites like AMO, but for me the Czech community forum was still the top until 2014, when Pavel Cvrček (JasnaPaka) offered me to **translate Thunderbird** on my own. That was huge responsibility for me, but also recognition. I thought that's the most you can achieve, I felt like a real boss.
+
+The next year, 2015, was like a big spinning wheel, outlined by the **Mozilla.cz restart** initiative led by Pavel to rebuild the Mozilla.cz website content (and design) and utilize as much of Mozilla infrastructure as we can. The motto was "Mozilla is doing many things, and they do them right", it's not necessary to update own versions of user documentation anymore. The second half of the year was very turbulent. Pavel decided to forward me the responsibility for **Mozilla.cz content** and **Firefox localization**, leaving the community projects due to the lack of time. At the end of the year, the changes in the community probably became so visible, that I have been invited to **Mozlando**, to meet my first non-Czech Mozillians in person.
+
+The last two years I will sum in a sentence or two. I try to act like a community peer for every l10n and support related project in Mozilla, I became a Rep, and after our localization community grew over 4 people, I am unable to name all the milestones we have outlined and achieved. The last two years are not really a story of me@mozilla, but a story of **czech-community@mozilla**.
+
+Now you may think that my involvement with the global Mozilla community is pretty short. And you are right. I am around the global stuff since 2014/15, still having longer experience with support forums answers than anything else. But for me that illustrates how powerful and dynamic the Mozilla community is.
