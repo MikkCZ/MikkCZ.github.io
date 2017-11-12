@@ -8,7 +8,7 @@ After 150 commits in total, Pontoon Tools got a third major release 3.0! From no
 
 As noted, there is a new introduction tour listing all major features of Pontoon Tools. It will appear after first installation or major version update. You can guess where I took inspiration for its design. Please check it carefully, as there may be feature you were not aware of before. ;)
 
-[![Pontoon Tools introduction tour](/assets/img/pontoon-tools-intro.png){:style="max-width:450px"}](/assets/img/pontoon-tools-intro.png){:style="display:block;text-align:center"}
+[![Pontoon Tools introduction tour](/assets/img/pontoon-tools-intro.jpg){:style="max-width:450px"}](/assets/img/pontoon-tools-intro.jpg){:style="display:block;text-align:center"}
 
 Also a completely new feature arrived, which are system notifications. Pontoon Tools can now utilize the [notifications API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/user_interface/Notifications) to inform you about new unread notifications in Pontoon. Because I understand not everyone must be happy with something popping up in the system, this feature is disabled by default and the introduction tour will allow you to enable it quickly.
 
