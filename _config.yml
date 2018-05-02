@@ -33,7 +33,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - CNAME
-  - netlify.toml
 
 plugins:
   - jekyll-feed
