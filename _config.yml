@@ -33,6 +33,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - CNAME
+  - vendor
 
 plugins:
   - jekyll-feed
