@@ -8,5 +8,5 @@ gem 'jekyll-feed', '~> 0.15.1'
 gem 'kramdown-parser-gfm', '~> 1.1'
 
 group :test do
-  gem 'html-proofer', '~> 3.18', '>= 3.18.2'
+  gem 'html-proofer', '~> 3.18', '>= 3.18.5'
 end
